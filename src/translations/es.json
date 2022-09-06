@@ -1,0 +1,16 @@
+{
+  "welcomeText": "Ingresa tu codigo de session",
+  "language": "Idioma",
+  "closeSession": "Cerrar sesión",
+  "enter": "Entrar",
+  "sessionCode": "Codigo de sesión",
+  "new": "Nuevo",
+  "inProgress": "En Progreso",
+  "inReview": "En Revision",
+  "done": "Resuelto",
+  "name": "Nombre",
+  "description": "Descripción",
+  "changeStatus": "Cambiar estatus",
+  "loading": "Cargando....",
+  "create": "Crear"
+}
