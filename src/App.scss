@@ -54,3 +54,10 @@
   background: rgba(14, 23, 38, 0.4);
   border-radius: 10px;
 }
+
+.content-header-root-sticky{
+  position: sticky;
+  top: 55px;
+  z-index: 99;
+  background-color: #FFFFFF;
+}
